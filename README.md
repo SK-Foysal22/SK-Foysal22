@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SK-Foysal22
 - 🏫 I'm a Computer Science Student
 - 🌱 I love to Travel
--💬 connect with me here 👉 https://github.com/SK-Foysal22/Foysal.git
+- 💬 connect with me here 👉 https://github.com/SK-Foysal22/Foysal.git
   
 
 <!---
